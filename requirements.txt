@@ -1,0 +1,11 @@
+langchain
+langchain_google_genai
+langchain_community
+langchain_chroma
+google-generativeai
+dotenv
+streamlit
+sounddevice
+numpy
+scipy
+gtts
